@@ -1,0 +1,1142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prodigals pilgrimage a poem wherein is contained all the remarkable passages occurring from his birth to his return.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31168</idno>
+            <idno type="STC">Wing C112</idno>
+            <idno type="STC">ESTC R5668</idno>
+            <idno type="EEBO-CITATION">13688965</idno>
+            <idno type="OCLC">ocm 13688965</idno>
+            <idno type="VID">101382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prodigals pilgrimage a poem wherein is contained all the remarkable passages occurring from his birth to his return.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: R.C.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101382:1"/>
+            <pb facs="tcp:101382:1" rendition="simple:additions"/>
+            <p>THE PRODIGALS PILGRIMAGE.</p>
+            <p>A Poem.</p>
+            <p>Wherein is contained all the Remarkable Paſſages occurring from his Birth to his Return.</p>
+            <q>
+               <l>Omnis ſemper Philoſophia damnavit</l>
+               <l>Mixtas Paenitentiae voluptates.</l>
+               <bibl>
+                  <hi>Sen.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Nutt</hi> near <hi>Stationers-Hall, Anno Dom.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101382:2"/>
+            <pb facs="tcp:101382:2"/>
+            <head>To the much Honoured JOHN TRY, <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe <hi>Prodigal,</hi> upon his Return, with great Reaſon pays his <hi>Reſpects</hi> to You, who was Privy to his Departure, (if probably this ſeem <hi>Aenigmatical</hi> to the Reader, I ask his <hi>Pardon,</hi> 'tis enough your ſelf takes my Meaning.) This Perſon, were be not hugely ſenſible of your kind Complacency, would ſtill appear as true a <hi>Prodigal</hi> as ever. In the agitation of Spirit, and ſearch of thought, among many motives for this his Reviſitation, he cou'd not determine on a more powerful and prevailing inducement, than the ſhelter he hopes to find under your
+<pb facs="tcp:101382:3"/>
+Roof, from the ſtorms and injuries of Cri<g ref="char:EOLhyphen"/>tical Fortune. You, whoſe worthy Temper, Ingenuity, and good Humour, (not to open into the Field of your excelling Juſtice, Integrity, and other numerous Virtues,) delights not in Satyrical Reflexions, or ill-natur'd Cavils; but whoſe Mind is conſtantly exerciſed in amicable Offices, in friendly offers, and as friendly acceptations of well-meant appli<g ref="char:EOLhyphen"/>cations to you of any ſort; not unlike the great <hi>Auguſtus Caeſar,</hi> who never diſ<g ref="char:EOLhyphen"/>miſſed any perſon Diſcontented or Diſob<g ref="char:EOLhyphen"/>liged.</p>
+            <p>Your innate Charity to all in general, and more eſpecially to this relenting <hi>Penitent,</hi> he aſſures himſelf, is ſo tender of his well<g ref="char:EOLhyphen"/>fare, that you will Indulge him, if it be but for fear he ſhould grow deſperate, and Re<g ref="char:EOLhyphen"/>lapſe, and ſo his laſt Aberrations, and State, ſhould prove far worſe than the firſt.</p>
+            <p>He believes he need ſay no more on his
+<pb facs="tcp:101382:3"/>
+own behalf, preſuming on your mighty Good<g ref="char:EOLhyphen"/>neſs; only this he begs leave to ſuper-add, — That in the declenſion of his late Meridian Splendor, he, having met with a Perſon that was immers'd in much the ſame Ill-circum<g ref="char:EOLhyphen"/>ſtances with his unfortunate Self, takes the confidence to bring him with him upon the ſame account of Reſpect and Homage; well-hoping your inexhauſted Generoſity, will not refuſe to extend your Smiles to him likewiſe: he goes by the Name of <hi>Penſeroſo.</hi>
+            </p>
+            <p>The <hi>Prodigal</hi> has not kept ſo much Com<g ref="char:EOLhyphen"/>pany to be ignorant of, or defective in good Manners; nor has loſt his Breeding, together with his Fortunes; but ſtill retains a fit proportion. In Civility therefore to this Friend, a Stranger, he puts him in before him, thus to kiſs your hands;</p>
+            <closer>
+               <signed>(and ſo dos, with all due regard, your moſt faithful humble Servant, <hi>R. C.</hi>)</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:101382:4"/>
+            <head>II Penſeroſo.</head>
+            <lg>
+               <l>TELL me not Youth and Health can give</l>
+               <l>This our deceiving Life Content,</l>
+               <l>Who-e're we are reſolv'd to Live,</l>
+               <l>Their ſickly Pleaſures all are ſpent:</l>
+               <l>And all the while they burn ſo bright,</l>
+               <l>Only give Luſt and Error light.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Tell me not there are Charms in Faces,</l>
+               <l>A Lip, an Eye, a Bluſh, an Air;</l>
+               <l>With all the other ſimp'ring Graces</l>
+               <l>Which the Inchanted World calls <hi>Fair:</hi>
+               </l>
+               <l>Whilſt I muſt either burn, or ſlake</l>
+               <l>My Flames in ſome polluted Lake.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Tell me not there are Learned <hi>Parts,</hi>
+               </l>
+               <l>The Mind's Indowments to be had;</l>
+               <l>And all the other <hi>Bedlam</hi> Arts</l>
+               <l>With which <hi>Grammari'ans</hi> can run mad;</l>
+               <l>Which bought with loſs of Health and Reſt,</l>
+               <l>Make us wiſe <hi>Gypſies</hi> at the beſt.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Tell me not <hi>Virtue</hi>'s Worth can fill</l>
+               <l>The Soul's wide Centre, ſince we know</l>
+               <l>
+                  <pb facs="tcp:101382:4"/>No Diff'rence between Good and Ill,</l>
+               <l>But as Opinion calls 'em ſo:</l>
+               <l>Since Honeſty from Earth is fled,</l>
+               <l>And to be Good, is to be Dead.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Tell me not there are Mines, in which</l>
+               <l>Painful and toiling Induſtry</l>
+               <l>May hope with delving to grow Rich,</l>
+               <l>Whilſt I, condemn'd by Deſtiny,</l>
+               <l>With killing Envy do behold,</l>
+               <l>And worſhip Mules that carry Gold.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Tell me not Pow'r and Government</l>
+               <l>Within their bright Sphere do contain</l>
+               <l>All that can ſweeten and content</l>
+               <l>Our wretched Life: The greateſt Pain</l>
+               <l>Of all my Torment is, to ſee</l>
+               <l>That Beaſts muſt rule and trample me.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Tell me not any thing is Good,</l>
+               <l>Juſt, Fair, or Lovely; if there be</l>
+               <l>Something by others underſtood,</l>
+               <l>'Tis ſo to them, and not to me,</l>
+               <l>Who, t' an indifferent Fortune curſt,</l>
+               <l>Envy alike the beſt and worſt.</l>
+            </lg>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:101382:5"/>
+            <head>The AUTHOR to the <hi>Beaus</hi> of this Age.</head>
+            <l>IN theſe few Lines, you <hi>Beaus,</hi> you may behold</l>
+            <l>The <hi>PRODIGAL,</hi> his <hi>Actions</hi> manifold;</l>
+            <l>His <hi>Lofty Pride,</hi> and then his <hi>Low Eſtate,</hi>
+            </l>
+            <l>And by his <hi>Life</hi> may learn to guide your <hi>Fate.</hi>
+            </l>
+            <l>And if you chance the ſelf-ſame <hi>Courſe</hi> to run,</l>
+            <l>I wiſh you would look home, as he hath done,</l>
+            <l>And have a ſerious Eye unto the End,</l>
+            <l>'Tis better late, than never, to amend.</l>
+            <epigraph>
+               <q>Longè vadit, qui nunquam redit.</q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:101382:5"/>
+            <head>
+               <hi>THE</hi> Prodigals Pilgrimage.</head>
+            <lg>
+               <l>WHen the full <hi>Period</hi> of my Time was come,</l>
+               <l>That <hi>Nature</hi> call'd me from my <hi>Mothers Womb</hi>
+               </l>
+               <l>To viſit this <hi>Mad World,</hi> and plac'd me here</l>
+               <l>Within the compaſs of this <hi>Hemiſphere,</hi>
+               </l>
+               <l>To Act my part upon this <hi>Earthly Stage</hi>
+               </l>
+               <l>Amongſt the <hi>Children</hi> of this <hi>ſinful Age;</hi>
+               </l>
+               <l>She took me by the <hi>Hand,</hi> and gave me ſtreight</l>
+               <l>Up to my <hi>Nurſe,</hi> commanding her to wait,</l>
+               <l>And carefully to lay me on her <hi>Lap,</hi>
+               </l>
+               <l>Feed me with wholeſome <hi>Milk,</hi> and needful <hi>Pap;</hi>
+               </l>
+               <l>To Swaddle me in <hi>Clouts,</hi> to keep me warm</l>
+               <l>From <hi>Cold,</hi> from <hi>Hunger,</hi> or what elſe might harm</l>
+               <l>My tender <hi>Limbs,</hi> and ſhe her ſelf would be</l>
+               <l>Still near at hand to <hi>Aid</hi> and <hi>Comfort</hi> me;</l>
+               <l>For I, ſhe ſaid, in time muſt undertake</l>
+               <l>A Journey, and a <hi>Pilgrimage</hi> muſt make</l>
+               <l>Through this wide <hi>Deſart,</hi> this vaſt <hi>Wilderneſs,</hi>
+               </l>
+               <l>Where I ſhould meet with many a ſad <hi>Diſtreſs;</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:101382:6"/>Where I ſhould marry ſtrange Encounters find,</l>
+               <l>And violent Aſſaults to lift my Mind</l>
+               <l>Off from its proper Hinges, and to throw</l>
+               <l>Into a Gulph of everlaſting Wo</l>
+               <l>Me and my utmoſt hopes, that I ſhould ſtand</l>
+               <l>Ev'n as a <hi>Mark</hi> ſet up for <hi>Fortune's</hi> hand</l>
+               <l>To ſhoot her <hi>Arrows</hi> at; that I ſhould be</l>
+               <l>Environ'd round with that Triplicity</l>
+               <l>Of <hi>Mortal Enemies,</hi> that would be ſure</l>
+               <l>To ſeek my <hi>Ruin,</hi> and my <hi>Wrack</hi> procure,</l>
+               <l>The <hi>World,</hi> the <hi>Fleſh,</hi> and <hi>Lucifer's</hi> damn'd hate,</l>
+               <l>Who proſecutes Man's good and hopeful State</l>
+               <l>With Malice and Deſpight in every place,</l>
+               <l>Would croſs my paſſage in this dang'rous Race,</l>
+               <l>And ſeek to win me by their cunning Art,</l>
+               <l>To Conſecrate the beſt of all my Heart</l>
+               <l>To their <hi>Devotion,</hi> and to draw me in</l>
+               <l>To be a <hi>Slave,</hi> or <hi>Servant</hi> ſold to Sin.</l>
+               <l>And therefore it was requiſite that I</l>
+               <l>Should have a careful <hi>Nurſe,</hi> that might ſupply,</l>
+               <l>And make me able to adventure through</l>
+               <l>This uncouth Wilderneſs, where ev'ry Bough,</l>
+               <l>In this my reſtleſs <hi>Pilgrimage</hi> would ſtay</l>
+               <l>My weary'd Steps, and intercept my Way.</l>
+            </lg>
+            <lg>
+               <l>All this my <hi>Nurſe</hi> and <hi>Nature</hi> did conſider,</l>
+               <l>And both combin'd, as I conceive, together</l>
+               <l>
+                  <pb n="3" facs="tcp:101382:6"/>In <hi>Cheriſhing</hi> me up: For I e're long</l>
+               <l>Forſook my <hi>Nurſe's Lap,</hi> I grew ſo ſtrong,</l>
+               <l>And ſtood alone, and walk'd without a Stay,</l>
+               <l>Or any Hand to guide me in the Way.</l>
+               <l>Then, like a cap'ring <hi>Frog,</hi> I skipp'd about</l>
+               <l>In ev'ry Corner of the Houſe throughout,</l>
+               <l>And was as nimble as a <hi>Mouſe</hi> that ſpy'd</l>
+               <l>A <hi>Cat</hi> prepar'd to leap upon her Hyde.</l>
+               <l>Then would I to my <hi>Mother's Breaſts</hi> reſort,</l>
+               <l>Off'ring to <hi>Suck</hi> them in a wanton Sport;</l>
+               <l>And back again return'd unto my Play;</l>
+               <l>And as an <hi>Ape</hi> with ev'ry gayiſh Toy</l>
+               <l>Is ſoon ſurpriz'd; ſo did I take Delight</l>
+               <l>To pleaſe my wanton <hi>Childiſh Appetite</hi>
+               </l>
+               <l>With whatſo'er the Object did inſtill</l>
+               <l>Into my Fancy, were it Good or Ill.</l>
+               <l>Here <hi>Nature</hi> gave me leave a while to ſtay,</l>
+               <l>And ſport my ſelf, then on I took my Way;</l>
+               <l>For now ſhe had infus'd to ev'ry <hi>Vein</hi>
+               </l>
+               <l>Hot, <hi>Youthful Blood,</hi> and fill'd my <hi>wandring Brain</hi>
+               </l>
+               <l>With ſuch a ſtrong imaginary Stream</l>
+               <l>Of <hi>fond Delights,</hi> as I began to dream</l>
+               <l>That all this <hi>Univerſe</hi> was but a <hi>Stage</hi>
+               </l>
+               <l>Of <hi>glitt'ring Pomp,</hi> and <hi>glorious Equipage,</hi>
+               </l>
+               <l>Which ſhould for ever laſt, as if the <hi>Wheel</hi>
+               </l>
+               <l>Of <hi>Fortune</hi> had been fix'd, and could not reel.</l>
+               <l>
+                  <pb n="4" facs="tcp:101382:7"/>She alſo had imparted to my <hi>Mind</hi>
+               </l>
+               <l>Some little <hi>Underſtanding,</hi> how to find</l>
+               <l>
+                  <hi>Content</hi> in what I did: Thus did ſhe ring</l>
+               <l>A <hi>Larum</hi> to my <hi>Senſes,</hi> gave each <hi>Limb</hi>
+               </l>
+               <l>A quick <hi>Agility,</hi> to ev'ry <hi>Part</hi>
+               </l>
+               <l>An active <hi>Vigor,</hi> and ſhe crown'd my <hi>Heart</hi>
+               </l>
+               <l>With <hi>Joy</hi> and <hi>Gladneſs,</hi> ſo that I conceiv'd</l>
+               <l>Nothing but <hi>Mirth</hi> had been to me bequeath'd.</l>
+            </lg>
+            <lg>
+               <l>She brought me from the <hi>Houſe,</hi> into the <hi>Fields,</hi>
+               </l>
+               <l>And look what Pleaſure or Content that yields,</l>
+               <l>I <hi>Reap'd</hi> at full, I <hi>Skipp'd</hi> from Place to Place</l>
+               <l>Like a young wanton <hi>Kid,</hi> purſu'd my <hi>Chace</hi>
+               </l>
+               <l>From <hi>Hill</hi> to <hi>Dale,</hi> I ran through <hi>Thick</hi> and <hi>Thin,</hi>
+               </l>
+               <l>No <hi>Limits</hi> could contain nor bound me in.</l>
+               <l>I <hi>Sung,</hi> I <hi>Danc'd,</hi> I gather'd <hi>fragrant Flowers,</hi>
+               </l>
+               <l>Such as <hi>fair Virgins</hi> beautifie their <hi>Bowers,</hi>
+               </l>
+               <l>And deck their <hi>Bridal Chambers</hi> with, the <hi>Roſe</hi>
+               </l>
+               <l>Which in the <hi>Spring</hi> doth firſt of all diſcloſe.</l>
+               <l>The <hi>Honey-Suckle,</hi> and ſweet <hi>Eglantine,</hi>
+               </l>
+               <l>
+                  <hi>Love</hi> and <hi>Hearts-Eaſe,</hi> but good and wholſome <hi>Time</hi>
+               </l>
+               <l>I utterly neglected, and for <hi>Rue,</hi>
+               </l>
+               <l>Or <hi>Herbs of Grace,</hi> I ever did eſchew.</l>
+               <l>Theſe healthful Herbs ſeem'd bitter to my Taſt,</l>
+               <l>Harſh and unſavory, I therefore caſt</l>
+               <l>On them a careleſs Look, and with an Eye</l>
+               <l>Full of Diſdain and Scorn, I paſs'd them by;</l>
+               <l>
+                  <pb n="5" facs="tcp:101382:7"/>I waſh'd my <hi>Body</hi> in the Silver ſtream,</l>
+               <l>Rub'd off the Duſt and Sweat, then wip'd it clean;</l>
+               <l>Then did I many <hi>Frisks</hi> and <hi>Capers</hi> make</l>
+               <l>Upon the flow'ring Graſs, and often ſhake</l>
+               <l>My <hi>dewy Locks,</hi> ſo tumbling up and down,</l>
+               <l>Laugh'd out my Days, ne're dreaming of a Frown.</l>
+               <l>I thouſand other <hi>Recreations</hi> took:</l>
+               <l>Sometimes I caſt my <hi>Angle</hi> in the <hi>Brook,</hi>
+               </l>
+               <l>And with ſome Artificial <hi>Fly</hi> or <hi>Gnat</hi>
+               </l>
+               <l>Deceiv'd thoſe ſilly <hi>Fiſh</hi> that <hi>Bit</hi> thereat:</l>
+               <l>Then would I ſet ſome <hi>Spring,</hi> or cunning <hi>Gin,</hi>
+               </l>
+               <l>To catch thoſe pretty <hi>Birds</hi> that peep'd therein:</l>
+               <l>And ſometimes hunt the <hi>Fox,</hi> or fearful <hi>Hare,</hi>
+               </l>
+               <l>Or uſe ſome Art to take them in my <hi>Snare;</hi>
+               </l>
+               <l>And with my nimble and ſtrong ſcented <hi>Hound</hi>
+               </l>
+               <l>Purſue the <hi>Buck,</hi> or pull the <hi>Stag</hi> to ground;</l>
+               <l>And from <hi>their</hi> Miſery and hard Diſtreſs</l>
+               <l>I did receive a kind of Happineſs.</l>
+               <l>And thus, as in <hi>Elizium</hi> Fields, my days</l>
+               <l>I ſeem'd to ſpend, ne're dreaming of thoſe ways,</l>
+               <l>Thoſe <hi>Rugged, Rough,</hi> and dang'rous paſſages,</l>
+               <l>Thoſe <hi>Brakes,</hi> thoſe <hi>Briers,</hi> and that <hi>Wilderneſs</hi>
+               </l>
+               <l>I was to <hi>Wander</hi> through, nor of thoſe <hi>Foes</hi>
+               </l>
+               <l>That lie in wait where e're poor <hi>Mortal</hi> goes,</l>
+               <l>To ſtrip him of his <hi>Richeſt Ornaments,</hi>
+               </l>
+               <l>His <hi>Faith,</hi> his <hi>Grace,</hi> his <hi>ſpotleſs Innocence;</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:101382:8"/>And in their ſtead, his <hi>wretched Soul</hi> inveſt</l>
+               <l>With <hi>loathſome Rags,</hi> which God doth much deteſt.</l>
+               <l>I hitherto was <hi>Blind;</hi> I could not <hi>See,</hi>
+               </l>
+               <l>Nor underſtand the <hi>Fatal Deſtiny,</hi>
+               </l>
+               <l>Which, like the Sword of <hi>Damocles,</hi> hung down</l>
+               <l>Juſt perpendicular upon my Crown;</l>
+               <l>And in the mid'ſt of all my <hi>Pomp</hi> and <hi>Chear,</hi>
+               </l>
+               <l>Fore-ſhew'd my <hi>Fall</hi> and <hi>Ruin</hi> to be near;</l>
+               <l>My <hi>Feet</hi> were <hi>Fetter'd</hi> yet, and could not <hi>Run</hi>
+               </l>
+               <l>The <hi>Race</hi> which they moſt gladly would have done;</l>
+               <l>My <hi>Hands</hi> were alſo <hi>Pinyon'd,</hi> and my <hi>Mind</hi>
+               </l>
+               <l>Within it's <hi>Orb</hi> and <hi>Circle</hi> was confin'd;</l>
+               <l>For with a careful <hi>Look,</hi> and awful <hi>Eye,</hi>
+               </l>
+               <l>My Parents <hi>Mark'd</hi> me when I ſtep'd awry,</l>
+               <l>And often brought me to the <hi>Fold</hi> again,</l>
+               <l>When I was <hi>loſt</hi> and <hi>ſtragling</hi> in the <hi>Plain;</hi>
+               </l>
+               <l>I had beſides a <hi>Tutor,</hi> to Survey</l>
+               <l>My <hi>wandring Steps,</hi> and keep me at a <hi>Bay;</hi>
+               </l>
+               <l>At home, and eke abroad, I had a <hi>Guide</hi>
+               </l>
+               <l>To <hi>Prop</hi> me up, when I began to <hi>Slide.</hi>
+               </l>
+               <l>But when the <hi>Rod</hi> was <hi>Burnt,</hi> and <hi>winged Time</hi>
+               </l>
+               <l>Compell'd theſe careful <hi>Guardians</hi> to Reſign,</l>
+               <l>And leave me to my <hi>Self,</hi> as being now</l>
+               <l>A <hi>Knotty Piece,</hi> more apt to <hi>Break</hi> than <hi>Bow;</hi>
+               </l>
+               <l>When <hi>Nature</hi> had perform'd her Work in me,</l>
+               <l>And rais'd me from a <hi>Shrub</hi> unto a <hi>Tree:</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:101382:8"/>When ſhe had furniſh'd me in ev'ry point,</l>
+               <l>Made ſtrong each <hi>Sinew,</hi> knit each ſlender <hi>Joynt,</hi>
+               </l>
+               <l>And with ſoft <hi>Down</hi> had ſo inrich'd my <hi>Chin,</hi>
+               </l>
+               <l>As new Spring Leaves adorn the Trees in <hi>Spring:</hi>
+               </l>
+               <l>Then did I hoiſe up <hi>Sails,</hi> and from the <hi>Shoar,</hi>
+               </l>
+               <l>Into the ſwelling <hi>Ocean</hi> with my <hi>Oar,</hi>
+               </l>
+               <l>I forthwith ſought to <hi>Lanch,</hi> both <hi>Wind</hi> and <hi>Tide,</hi>
+               </l>
+               <l>And all black threatning <hi>Guſts,</hi> I did deride.</l>
+               <l>I caſt the <hi>ſervile Yoke</hi> from off my <hi>Neck,</hi>
+               </l>
+               <l>A <hi>Frown</hi> ſeem'd harſh to me, much more a <hi>Check;</hi>
+               </l>
+               <l>And from my former <hi>Sports</hi> I ſcorn'd to think</l>
+               <l>That e're my <hi>lofty Spirit</hi> could ſtoop to Drink</l>
+               <l>At ſuch a <hi>pudled Stream:</hi> The <hi>Court</hi> alone</l>
+               <l>Preſented to my thoughts a <hi>glitt'ring Throne,</hi>
+               </l>
+               <l>Enrich'd with all <hi>Delights;</hi> and therefore now</l>
+               <l>The <hi>Portion</hi> which my <hi>Birth-right</hi> did allow</l>
+               <l>I labour'd to obtain; nor could the kind</l>
+               <l>And fair perſwaſions of my <hi>Parents</hi> bind</l>
+               <l>My <hi>refractory Will,</hi> but ev'ry thought,</l>
+               <l>Like an <hi>Inchanted Spell,</hi> within me wrought,</l>
+               <l>'Till, like a <hi>Pilgrim,</hi> labouring in a ſtreight,</l>
+               <l>I found the <hi>Error</hi> of my vain Conceit.</l>
+               <l>When I had fill'd my <hi>Bags,</hi> and cram'd my <hi>Purſe,</hi>
+               </l>
+               <l>I bad adieu, <hi>fall better,</hi> or <hi>fall worſe;</hi>
+               </l>
+               <l>So mounting up upon a <hi>ſtately Steed,</hi>
+               </l>
+               <l>I cry'd, St. <hi>George</hi> and <hi>Fortune</hi> be my ſpeed;</l>
+               <l>
+                  <pb n="8" facs="tcp:101382:9"/>And as I paſs'd along, where e're I came,</l>
+               <l>My large Expences <hi>Eccho'd</hi> out my <hi>Name;</hi>
+               </l>
+               <l>At laſt I <hi>touch'd,</hi> and <hi>Landed</hi> at that <hi>Shore,</hi>
+               </l>
+               <l>Where, <hi>Tagus</hi> like, the <hi>Sand</hi> with <hi>Golden Ore</hi>
+               </l>
+               <l>Did ſeem to be <hi>Inrich'd,</hi> this place I ſpy'd</l>
+               <l>Like <hi>Ilium</hi> in the height of all her <hi>Pride.</hi>
+               </l>
+               <l>For at my firſt <hi>Arrival</hi> there I found</l>
+               <l>
+                  <hi>Mirth</hi> at its height, and <hi>Pleaſure</hi> to abound;</l>
+               <l>The <hi>Air</hi> with Acclamations loud did <hi>Ring,</hi>
+               </l>
+               <l>The <hi>People</hi> Danc'd and Sung, as in the <hi>Spring;</hi>
+               </l>
+               <l>The <hi>Winged Choiriſters</hi> did ſtretch their <hi>Throats,</hi>
+               </l>
+               <l>To <hi>Carrol</hi> out a Thouſand ſev'ral <hi>Notes;</hi>
+               </l>
+               <l>The <hi>Bells</hi> did Ring, the <hi>Bonefires</hi> up did fly,</l>
+               <l>And ev'ry Houſe was fill'd with <hi>Melody;</hi>
+               </l>
+               <l>The very <hi>Eccho</hi> ſeemed to <hi>Rejoice,</hi>
+               </l>
+               <l>And to this <hi>Muſick</hi> tun'd her curtail'd <hi>Voice:</hi>
+               </l>
+               <l>I ſaw at ev'ry great and ſpacious Gate</l>
+               <l>
+                  <hi>Wine</hi> dol'd about to People as they ſate;</l>
+               <l>I ſaw at ev'ry mean and common door</l>
+               <l>
+                  <hi>Beer</hi> freely given, both to <hi>Rich</hi> and <hi>Poor;</hi>
+               </l>
+               <l>I ſaw a Troop of Coaches in the Street</l>
+               <l>Lin'd with <hi>Brisk Beaus,</hi> and the proud Horſes Feet</l>
+               <l>Struck on the Pavement with ſo loud a din,</l>
+               <l>As if it had a ratling <hi>Thunder</hi> bin;</l>
+               <l>I heard the Cannons from the <hi>Tow'r</hi> to roar,</l>
+               <l>As if the whole <hi>Foundation</hi> would have tore:</l>
+               <l>
+                  <pb n="9" facs="tcp:101382:9"/>Of all the <hi>Stately Buildings,</hi> much I mus'd</l>
+               <l>To ſee theſe <hi>Sights,</hi> and hear this <hi>Noiſe</hi> confus'd;</l>
+               <l>And preſently conceiv'd this was the <hi>Cell</hi>
+               </l>
+               <l>Where all the <hi>Gods</hi> and <hi>Goddeſſes</hi> did dwell;</l>
+               <l>Or that it was the <hi>Theatre</hi> where they</l>
+               <l>Deſcended to behold <hi>poor Mortals</hi> Play;</l>
+               <l>For I had of their <hi>Banquetting</hi> and <hi>Sports</hi>
+               </l>
+               <l>Read in the <hi>Hiſtories,</hi> and ſtrange Reports</l>
+               <l>Of <hi>Ancient Poets,</hi> then into an Inn</l>
+               <l>I ſet my <hi>Horſe,</hi> and call'd the <hi>Chamberlain;</hi>
+               </l>
+               <l>I ask'd of him from what <hi>Triumphant Cauſe</hi>
+               </l>
+               <l>Aroſe that <hi>Joy,</hi> that <hi>Mirth,</hi> and great <hi>Applauſe;</hi>
+               </l>
+               <l>He told me 'twas a <hi>Cuſtomary</hi> thing</l>
+               <l>In that great City for the <hi>Bells</hi> to <hi>Ring,</hi>
+               </l>
+               <l>For <hi>Bonefires</hi> to be made, nay, many a time</l>
+               <l>The very <hi>Conduits</hi> were to run with <hi>Wine;</hi>
+               </l>
+               <l>And how I daily in that place might ſee</l>
+               <l>Of <hi>Sports</hi> and <hi>Pleaſures</hi> great <hi>Variety.</hi>
+               </l>
+               <l>I then diſmiſs'd him, and began to think</l>
+               <l>This was the very <hi>Spring</hi> where I might <hi>Drink</hi>
+               </l>
+               <l>And ſwallow in <hi>Delight;</hi> I felt a <hi>Fire</hi>
+               </l>
+               <l>Surpriſe my <hi>Blood,</hi> and with a hot deſire</l>
+               <l>Inflame my <hi>Heart,</hi> to put in Practice ſtrait</l>
+               <l>
+                  <hi>Pride, Gluttony,</hi> and <hi>Luſt,</hi> that tempting <hi>Bait.</hi>
+               </l>
+               <l>Then did my <hi>Fleſh</hi> ſuggeſt unto my <hi>Mind,</hi>
+               </l>
+               <l>That hitherto I had not been ſo kind</l>
+               <l>
+                  <pb n="10" facs="tcp:101382:10"/>To <hi>Her</hi> as <hi>She</hi> deſerv'd; I had not <hi>Fed,</hi>
+               </l>
+               <l>Nor Richly Cloath'd <hi>Her</hi> as <hi>She</hi> merited;</l>
+               <l>And that I ſhould do well now to begin</l>
+               <l>To <hi>Pamper Her,</hi> who had ſo loving been;</l>
+               <l>
+                  <hi>She</hi> bid me caſt my <hi>wand'ring Eyes</hi> about,</l>
+               <l>And look what <hi>Beaut'ous Prize</hi> I could find out:</l>
+               <l>
+                  <hi>She</hi> charg'd me with a brisk <hi>Reſult,</hi> to make</l>
+               <l>A bold <hi>Aſſault,</hi> for <hi>Gold</hi> and <hi>Greatneſs</hi> ſhake</l>
+               <l>The ſtrongeſt <hi>Fortreſs,</hi> and will pierce the Heart</l>
+               <l>Which ſeemed Steeled againſt <hi>Cupid</hi>'s Dart,</l>
+               <l>And <hi>She</hi> would not be wanting to fulfill</l>
+               <l>My <hi>hot deſires,</hi> and Execute my <hi>Will.</hi>
+               </l>
+               <l>The <hi>World</hi> did alſo to mine <hi>Eyes</hi> preſent</l>
+               <l>Such <hi>glitt'ring Splendor,</hi> and ſo <hi>Orient,</hi>
+               </l>
+               <l>That I ſtood much <hi>Amaz'd,</hi> and look'd thereon</l>
+               <l>Like one ſurpriz'd with <hi>Admiration.</hi>
+               </l>
+               <l>She bad me not to <hi>Wonder,</hi> nor to think</l>
+               <l>Her <hi>Power</hi> and <hi>Greatneſs</hi> in a ſmall <hi>Precinct</hi>
+               </l>
+               <l>Was <hi>Bounded</hi> in, but that her <hi>Empire</hi> run</l>
+               <l>As far as e're the Golden treſſed <hi>Sun</hi>
+               </l>
+               <l>Did ſtretch his <hi>glorious Beams,</hi> and I ſhould be</l>
+               <l>As <hi>Brave</hi> as any Object I did ſee:</l>
+               <l>In following <hi>Her,</hi> not mighty <hi>Caeſars</hi> ſtate,</l>
+               <l>Nor <hi>Craeſus</hi> Riches, ſhould out-ſhine my <hi>Fate.</hi>
+               </l>
+               <l>With theſe two <hi>Witches</hi> came the <hi>Devil</hi> in,</l>
+               <l>And when they ended, then did <hi>He</hi> begin;</l>
+               <l>
+                  <pb n="11" facs="tcp:101382:10"/>
+                  <hi>He</hi> ſhow'd me in a <hi>Viſion</hi> at one time</l>
+               <l>The <hi>Scituation</hi> of this <hi>Earthly Clime;</hi>
+               </l>
+               <l>And brought unto my <hi>Sight</hi> ſuch <hi>Beauties</hi> rare,</l>
+               <l>As <hi>Roſamond</hi> might not with them compare;</l>
+               <l>And did preſent to my <hi>Inchanted Eyes</hi>
+               </l>
+               <l>Such heaps of <hi>Gold,</hi> and <hi>precious Rareties,</hi>
+               </l>
+               <l>As bright <hi>Apollo</hi> on his <hi>Burning Car</hi>
+               </l>
+               <l>Appear'd to them but like a <hi>twinkling Star;</hi>
+               </l>
+               <l>And told me, what he ſhow'd me in a <hi>Glaſs</hi>
+               </l>
+               <l>In ſhould <hi>Enjoy,</hi> and really <hi>Poſſeſs,</hi>
+               </l>
+               <l>If I would be his <hi>Servant,</hi> and obey</l>
+               <l>What he <hi>Commanded</hi> both to <hi>do</hi> and <hi>ſay.</hi>
+               </l>
+               <l>When they had cunningly my Senſes <hi>Charm'd</hi>
+               </l>
+               <l>With theſe illuſive <hi>Spells,</hi> they ſoon diſarm'd</l>
+               <l>My <hi>Soul</hi> of all her <hi>Heavenly Furniture,</hi>
+               </l>
+               <l>Which ſhould have been her <hi>Guard</hi> againſt their <hi>pow'r,</hi>
+               </l>
+               <l>And I ſtruck <hi>Hands</hi> with them, a <hi>Contract</hi> made,</l>
+               <l>Proteſting to <hi>obſerve</hi> what e're they ſaid,</l>
+               <l>And whereſoe're I came, no place nor time</l>
+               <l>Should make me their <hi>three Friendſhips</hi> to reſign.</l>
+               <l>When <hi>Juno, Pallas,</hi> and <hi>Loves Beauteous Queen</hi>
+               </l>
+               <l>To <hi>Paris</hi> in the Vale of <hi>Ide</hi> were ſeen,</l>
+               <l>And there, as three <hi>Corrivals</hi> for the Prize</l>
+               <l>Of <hi>Beauty</hi>'s favour, and commanding <hi>Eyes,</hi>
+               </l>
+               <l>Stood in <hi>Contention,</hi> and had made a <hi>Vow</hi>
+               </l>
+               <l>To ſtand to what his <hi>Cenſure</hi> did allow:</l>
+               <l>
+                  <pb n="12" facs="tcp:101382:11"/>The firſt propos'd a <hi>Kingdom</hi> and a <hi>Crown</hi>
+               </l>
+               <l>For his <hi>Reward,</hi> might <hi>She</hi> be firſt ſet down:</l>
+               <l>The ſecond told him that <hi>He</hi> ſhould excell</l>
+               <l>All Men in <hi>Wiſdom,</hi> might ſhe bear the <hi>Bell:</hi>
+               </l>
+               <l>The third indeed, who bore the <hi>Prize</hi> away,</l>
+               <l>Told him <hi>She</hi> had a <hi>Spouſe</hi> as fair as day</l>
+               <l>To be his <hi>Partner</hi> in the <hi>Bed</hi> of <hi>Pleaſure,</hi>
+               </l>
+               <l>Whoſe <hi>Beauty</hi> was eſteem'd ſo Rich a <hi>Treaſure,</hi>
+               </l>
+               <l>That many <hi>Kings</hi> and <hi>Princes</hi> for her ſake</l>
+               <l>Should enter into <hi>Arms,</hi> and undertake</l>
+               <l>A <hi>Mortal War;</hi> Millions of <hi>Souls</hi> ſhould ſpend</l>
+               <l>Their <hi>Lives</hi> for <hi>Her,</hi> and for no other end.</l>
+               <l>
+                  <hi>Paris</hi> was not ſo much ſurpriz'd with <hi>Wonder</hi>
+               </l>
+               <l>And <hi>Joy,</hi> when he began to think and ponder</l>
+               <l>Of what theſe <hi>Goddeſſes</hi> to him had ſaid,</l>
+               <l>And promis'd too, as I was well apaid</l>
+               <l>Of theſe <hi>Bewitching Syrens,</hi> whoſe falſe <hi>Lyes</hi>
+               </l>
+               <l>Infected me with Thouſand <hi>Vanities.</hi>
+               </l>
+               <l>Then did I ſet a <hi>Flouriſh</hi> on my <hi>Back,</hi>
+               </l>
+               <l>Call'd for my <hi>Taylor,</hi> told him I would lack</l>
+               <l>Nothing which now the <hi>Faſhion</hi> did require;</l>
+               <l>Thus <hi>Pride</hi> did firſt my <hi>Senſes</hi> ſet on fire.</l>
+               <l>Then did I <hi>flaunt</hi> it in the open Street,</l>
+               <l>And juſtled thoſe whom I did chance to meet;</l>
+               <l>My <hi>Body</hi> cloath'd in <hi>Silk,</hi> my <hi>Head</hi> implum'd</l>
+               <l>With <hi>flaunting Feathers,</hi> and my <hi>Hair</hi> perfum'd;</l>
+               <l>
+                  <pb n="13" facs="tcp:101382:11"/>And quickly was I known, for ſtill I wore</l>
+               <l>A <hi>Lure</hi> about me, which would make Men ſore,</l>
+               <l>And ſtoop to me as faſt, as when we ſee</l>
+               <l>A well Man'd <hi>Faulcon</hi> from a lofty Tree</l>
+               <l>Deſcend with ſpeed to ſeize upon his <hi>Prey,</hi>
+               </l>
+               <l>Being <hi>ſharp</hi> and <hi>hungry,</hi> kept for <hi>Sport</hi> that day.</l>
+               <l>Then to the <hi>Ord'nary</hi> I did frequent,</l>
+               <l>Where ev'ry one my <hi>Bounty</hi> did reſent,</l>
+               <l>And ſoon my <hi>Friendſhip</hi> was indear'd to thoſe,</l>
+               <l>Who love to be acquainted with good <hi>Cloaths;</hi>
+               </l>
+               <l>With <hi>Conge</hi> and with <hi>Cringe,</hi> with <hi>Duck</hi> and <hi>Dive</hi>
+               </l>
+               <l>I was Saluted; ev'ry Man did ſtrive</l>
+               <l>To be Inroll'd amongſt thoſe <hi>Friends,</hi> whom I</l>
+               <l>Selected as my choiceſt Company.</l>
+               <l>Thus <hi>Flattery,</hi> with his <hi>Inchanting Song,</hi>
+               </l>
+               <l>and <hi>Incantation,</hi> wrought on me ſo ſtrong,</l>
+               <l>And did ſo pow'rfully my <hi>Mind</hi> incenſe</l>
+               <l>With an abſur'd <hi>Belief</hi> and <hi>Confidence,</hi>
+               </l>
+               <l>As every Man, in my conceit, did ſeem</l>
+               <l>To hold my <hi>Perſon</hi> in a <hi>high Eſteem:</hi>
+               </l>
+               <l>For ſtill my <hi>Purſe</hi> was ope, and out my <hi>Crowns</hi>
+               </l>
+               <l>Flew like the flakes of Snow upon the <hi>Downs.</hi>
+               </l>
+               <l>Then from the <hi>City</hi> to the <hi>Court</hi> I went,</l>
+               <l>To feel the temper of that <hi>Element:</hi>
+               </l>
+               <l>Then I obſerv'd with what a ſtately <hi>Train</hi>
+               </l>
+               <l>Some <hi>Lords</hi> paſs'd by, when other <hi>Lords</hi> were fain</l>
+               <l>
+                  <pb n="14" facs="tcp:101382:12"/>To ſtand a loof, and hardly to appear,</l>
+               <l>Unleſs they were unto theſe <hi>Great Ones</hi> dear.</l>
+               <l>I alſo then obſerv'd the fond and vain</l>
+               <l>Conceited <hi>Antick</hi> of a <hi>Courtly ſtrain;</hi>
+               </l>
+               <l>One <hi>Leap'd,</hi> and <hi>Skipt,</hi> and <hi>Sung,</hi> and play'd the <hi>Fool,</hi>
+               </l>
+               <l>As if he had been in a <hi>Dancing-School:</hi>
+               </l>
+               <l>A ſecond kiſs'd his <hi>Hand,</hi> and ſcrap'd a <hi>Leg</hi>
+               </l>
+               <l>To ev'ry one, upon whoſe lofty <hi>Head</hi>
+               </l>
+               <l>A <hi>Feather</hi> did but <hi>Wag:</hi> A third did look</l>
+               <l>As big as great <hi>Alcides,</hi> when he ſhook</l>
+               <l>A <hi>Lyon</hi> by the <hi>Beard;</hi> all which did ſeem</l>
+               <l>To me no better than a <hi>ſportful Scene,</hi>
+               </l>
+               <l>Strange and ridiculous, yet I did fall</l>
+               <l>In <hi>Imitation</hi> to exceed them all;</l>
+               <l>For there a while I made my <hi>Reſidence,</hi>
+               </l>
+               <l>Ruffling in <hi>Silk</hi> and <hi>Gold,</hi> my large expence</l>
+               <l>Had blown my <hi>Fame</hi> and <hi>Credit</hi> long before,</l>
+               <l>I ſoon got <hi>Entrance</hi> at the <hi>Preſence Dore;</hi>
+               </l>
+               <l>Here one great <hi>Lord</hi> did take me by the <hi>Hand,</hi>
+               </l>
+               <l>Another call'd me <hi>Couſen,</hi> bid command</l>
+               <l>His <hi>Love</hi> and <hi>Service,</hi> and Inferiors ſtrove</l>
+               <l>To gain my <hi>Friendſhip</hi> with obſequious <hi>Love.</hi>
+               </l>
+               <l>Thus did I ſeem to be indear'd to all,</l>
+               <l>
+                  <hi>Embrac'd</hi> and <hi>courted</hi> far beyond my <hi>call;</hi>
+               </l>
+               <l>And whilſt my <hi>Head</hi> above the <hi>Stream</hi> did <hi>Swim</hi>
+               </l>
+               <l>I found enough to hold me by the <hi>Chin.</hi>
+               </l>
+               <l>
+                  <pb n="15" facs="tcp:101382:12"/>Then to the <hi>City</hi> I return'd again,</l>
+               <l>Where I reſolv'd my Self to entertain</l>
+               <l>With all the <hi>Pleaſures</hi> that I could deviſe.</l>
+               <l>And firſt, I taught my amorous looking <hi>Eyes</hi>
+               </l>
+               <l>To Court the choiceſt <hi>Beauties,</hi> and Inroll</l>
+               <l>Their <hi>Wanton glances</hi> in my <hi>luſtful Soul;</hi>
+               </l>
+               <l>And with their <hi>piercing Sight</hi> to ſearch and try,</l>
+               <l>And pick the very <hi>Lock</hi> of <hi>Chaſtity;</hi>
+               </l>
+               <l>Whom with <hi>large Promiſes,</hi> and <hi>ample Gifts,</hi>
+               </l>
+               <l>I quickly Won; <hi>Luſt</hi> hath a thouſand Shifts.</l>
+               <l>Then with the rareſt Harmony I fed</l>
+               <l>My curious <hi>Ears,</hi> and on a coſtly <hi>Bed</hi>
+               </l>
+               <l>I laid my <hi>Corps,</hi> and ſerv'd my <hi>Am'rous touch</hi>
+               </l>
+               <l>Till I was <hi>Cloy'd,</hi> and thought I had <hi>too much;</hi>
+               </l>
+               <l>And with the richeſt <hi>Aromatick Fume</hi>
+               </l>
+               <l>I ſent the <hi>Incenſe</hi> of a ſweet Perfume</l>
+               <l>Up to my <hi>Brain,</hi> and did revive my Senſe</l>
+               <l>Of <hi>Smelling,</hi> with an infinite Expence:</l>
+               <l>I alſo did ſupply my <hi>Liquoriſh taſte</hi>
+               </l>
+               <l>With ſo <hi>profuſe</hi> and <hi>Prodigal a</hi> waſt,</l>
+               <l>That in one <hi>Night</hi> two thouſand <hi>Crowns</hi> did fly,</l>
+               <l>To pleaſe my wanton <hi>Senſuality:</hi>
+               </l>
+               <l>I gave my Miſtreſs <hi>Rings</hi> and <hi>Jewels</hi> ſtore,</l>
+               <l>And at my Coſt and Charge her Body wore</l>
+               <l>
+                  <hi>Silks</hi> of the Richeſt Die, <hi>Silver</hi> and <hi>Gold,</hi>
+               </l>
+               <l>Or whatſoe're the <hi>Mercers</hi> Shop did hold:</l>
+               <l>
+                  <pb n="16" facs="tcp:101382:13"/>Upon her <hi>Alablaſter</hi> Skin was drawn</l>
+               <l>The fineſt <hi>Holland,</hi> and the pureſt <hi>Lawn,</hi>
+               </l>
+               <l>And whatſoe're for <hi>Money</hi> could be bought,</l>
+               <l>Or <hi>Rich,</hi> or <hi>Rare,</hi> I to my <hi>Miſtreſs</hi> brought.</l>
+               <l>And when her <hi>Fancy</hi> drew her out to <hi>Range,</hi>
+               </l>
+               <l>To view the <hi>Golden Cheap,</hi> or <hi>glitt'ring Change;</hi>
+               </l>
+               <l>Or in the <hi>Fields</hi> to ſuck the wholeſome <hi>Air,</hi>
+               </l>
+               <l>To make her Fairer ſeem, that ſeem'd <hi>moſt Fair;</hi>
+               </l>
+               <l>A Rich <hi>Caroch,</hi> drawn with <hi>ſix Prancers,</hi> ſtill</l>
+               <l>Stood in a readineſs to ſerve her Will:</l>
+               <l>And thus in <hi>Wanton Riot</hi> and <hi>Exceſs</hi>
+               </l>
+               <l>I ſpent my <hi>Time,</hi> ne're dreaming of <hi>Diſtreſs;</hi>
+               </l>
+               <l>And though my <hi>Crowns</hi> did ſhrink, and much abate,</l>
+               <l>Yet could not <hi>Reaſon</hi> ſtir me, nor awake</l>
+               <l>My <hi>Underſtanding,</hi> until all was gone,</l>
+               <l>And no <hi>Friend</hi> left me to rely upon;</l>
+               <l>For being <hi>cloy'd</hi> with what I did and ſaw</l>
+               <l>In this great <hi>Town,</hi> then did my <hi>Fancy</hi> draw</l>
+               <l>My <hi>wand'ring Thoughts</hi> to viſit <hi>Foreign Parts,</hi>
+               </l>
+               <l>
+                  <hi>Faſhions</hi> and <hi>Courts</hi> of other <hi>Potentates.</hi>
+               </l>
+               <l>To <hi>Graveſend</hi> then I went, and there I found</l>
+               <l>A Veſſel under Sayl, and ready Bound,</l>
+               <l>Which landed me upon the Coaſt of <hi>France,</hi>
+               </l>
+               <l>Where to the Court I did my ſelf advance;</l>
+               <l>Then with the <hi>Monſieurs</hi> I did flaunt it out,</l>
+               <l>Pranc d on my Foot-cloth <hi>Paris</hi> round about,</l>
+               <l>
+                  <pb n="17" facs="tcp:101382:13"/>And with the greateſt <hi>Lords,</hi> and mighty <hi>Dukes,</hi>
+               </l>
+               <l>I did conſort in rich and coſtly <hi>Suits;</hi>
+               </l>
+               <l>There I ſaluted the <hi>Pariſian</hi> Dames,</l>
+               <l>And Courted <hi>Ladies</hi> of the greateſt <hi>Names,</hi>
+               </l>
+               <l>And was accounted a brave <hi>Cavalier</hi>
+               </l>
+               <l>Of high Eſteem, and to their Perſons dear.</l>
+               <l>But when my <hi>Crowns</hi> were ſpent, and that fair crew</l>
+               <l>Of <hi>Angels,</hi> which ſo thick about me flew,</l>
+               <l>And rais'd my Perſon to that high Eſteem,</l>
+               <l>Had took their flight, and could no more be ſeen;</l>
+               <l>Then did my <hi>Reputation</hi> quickly crack,</l>
+               <l>My Purſe grew <hi>Sick,</hi> the Cloaths upon my Back</l>
+               <l>Grew <hi>Poor,</hi> and <hi>Threedbare</hi> too, my <hi>Credit</hi> fail'd,</l>
+               <l>I had ſo far beyond my <hi>Compaſs</hi> Sail'd;</l>
+               <l>And they with whom I had great <hi>Empire</hi> born</l>
+               <l>Look'd on me then but with <hi>Contempt</hi> and <hi>Scorn;</hi>
+               </l>
+               <l>And every one did note my <hi>Poverty,</hi>
+               </l>
+               <l>A <hi>Lackey</hi> ſcarce would keep me <hi>Company:</hi>
+               </l>
+               <l>Then was I driven to a narrow ſtrait,</l>
+               <l>Where I <hi>Commanded</hi> I was glad to <hi>Wait,</hi>
+               </l>
+               <l>And where I had my <hi>Foot</hi> the foremoſt ſet</l>
+               <l>I ſhrunk, like dainty <hi>Lawn</hi> in Water wet;</l>
+               <l>And when my <hi>Money</hi> was all ſpent and gone,</l>
+               <l>As <hi>Marygolds</hi> at Setting of the <hi>Sun</hi>
+               </l>
+               <l>Shrink in their <hi>Heads,</hi> ſo did I hide my <hi>Face,</hi>
+               </l>
+               <l>When that bright <hi>Sun</hi> was Set that did me <hi>Grace:</hi>
+               </l>
+               <l>
+                  <pb n="18" facs="tcp:101382:14"/>Then I reſolv'd to change that luckleſs <hi>Air,</hi>
+               </l>
+               <l>And once more to my <hi>Native Soil</hi> repair,</l>
+               <l>To viſit <hi>England</hi>'s Court, where I in ſtore</l>
+               <l>Had many <hi>Friends</hi> that would not ſee me <hi>Poor.</hi>
+               </l>
+               <l>So on I came, as faſt as well I could,</l>
+               <l>Trudging on <hi>Foot,</hi> for now my <hi>Horſe</hi> was <hi>Sold;</hi>
+               </l>
+               <l>And wand'ring like a <hi>Pilgrim</hi> all alone,</l>
+               <l>With many a deep fetch'd <hi>Sigh</hi> and heavy <hi>Groan,</hi>
+               </l>
+               <l>At laſt I came unto a <hi>Forreſt</hi> ſide,</l>
+               <l>And in I entred without help or guide;</l>
+               <l>Where having paſs'd ſome Miles, I ſaw in view</l>
+               <l>A Troop of <hi>Forreſt Beaſts,</hi> a <hi>Savage Crew;</hi>
+               </l>
+               <l>Whereat being much <hi>Amaz'd,</hi> and <hi>ſore Agaſt,</hi>
+               </l>
+               <l>I took a <hi>Tree,</hi> and Mark'd them as they paſt.</l>
+               <l>I ſaw a <hi>Lyon</hi> march before the reſt</l>
+               <l>With ſtately <hi>Motion,</hi> as became him beſt;</l>
+               <l>And after him a <hi>ſpotted Leopard</hi>
+               </l>
+               <l>Came ſtalking like ſome proud ambitious <hi>Lord:</hi>
+               </l>
+               <l>I ſaw th'untamed <hi>Panther</hi> then to come,</l>
+               <l>And after him a <hi>Unicorn</hi> to run:</l>
+               <l>I ſaw a <hi>Boar</hi> aſſault another <hi>Beaſt,</hi>
+               </l>
+               <l>And with his furious <hi>Tusks</hi> did gore his <hi>Breaſt:</hi>
+               </l>
+               <l>I ſaw a cruel <hi>Woolf</hi> ſurprize a <hi>Deer,</hi>
+               </l>
+               <l>And pluck him down, and out his <hi>Bowels</hi> tear:</l>
+               <l>I ſaw a <hi>Fox</hi> purſue a gentle <hi>Lamb,</hi>
+               </l>
+               <l>That <hi>Bleating</hi> ſtood, and cry'd unto his <hi>Dam:</hi>
+               </l>
+               <l>
+                  <pb n="19" facs="tcp:101382:14"/>I ſaw a <hi>Tyger</hi> his fierce <hi>Viſage</hi> hide</l>
+               <l>So cunningly, as none his <hi>falſhood</hi> ſpy'd,</l>
+               <l>And only ſhow'd his <hi>ſmooth</hi> and <hi>dainty Skin,</hi>
+               </l>
+               <l>Which ſmelt ſo <hi>Sweet,</hi> that many <hi>Beaſts</hi> came in</l>
+               <l>To <hi>Wonder</hi> at him, till at laſt he got</l>
+               <l>His <hi>Prey</hi> within his reach; then out he ſhot</l>
+               <l>His <hi>dreadful Looks,</hi> and with a nimble ſpeed,</l>
+               <l>As ſwift as <hi>Air,</hi> purſu'd a gallant <hi>Steed.</hi>
+               </l>
+               <l>Lord! how this <hi>Spectacle</hi> did damp my <hi>Mind,</hi>
+               </l>
+               <l>To ſee theſe <hi>Beaſts</hi> ſo <hi>Cruel</hi> to their <hi>Kind,</hi>
+               </l>
+               <l>Ne're Dreaming the like <hi>Cruelty</hi> did reſt</l>
+               <l>In <hi>Manly Shapes,</hi> and in a <hi>Humane Breaſt.</hi>
+               </l>
+               <l>Theſe being paſt, I did deſcend again,</l>
+               <l>And forwards took my <hi>Journey</hi> to the <hi>Main,</hi>
+               </l>
+               <l>Where being Mounted on Proud <hi>Neptune</hi>'s <hi>Back,</hi>
+               </l>
+               <l>I found he <hi>Roar'd,</hi> and made the Veſſel <hi>Crack,</hi>
+               </l>
+               <l>As if he had been <hi>Angry</hi> at the ill</l>
+               <l>I had committed: but we <hi>Sail'd</hi> on ſtill,</l>
+               <l>And at the laſt came to the wiſh'd for <hi>Shore,</hi>
+               </l>
+               <l>Where, when I <hi>Landed,</hi> I had paid my <hi>Score;</hi>
+               </l>
+               <l>My <hi>Purſe</hi> was quite <hi>Exhauſt,</hi> and by the way</l>
+               <l>I for my Succour was compell'd to <hi>Pray;</hi>
+               </l>
+               <l>At laſt my tired <hi>Legs</hi> my <hi>Body</hi> brought</l>
+               <l>Unto that <hi>Harbor</hi> which my wiſhes ſought,</l>
+               <l>And where I hop'd a preſent <hi>Cure</hi> to find,</l>
+               <l>To eaſe my ſad and diſcontented <hi>Mind;</hi>
+               </l>
+               <l>
+                  <pb n="20" facs="tcp:101382:15"/>And therefore with a <hi>Reſolute</hi> intent,</l>
+               <l>To ſee a <hi>dear</hi> and <hi>ſpecial Friend</hi> I went:</l>
+               <l>A <hi>ſpecial Friend,</hi> ſaid I? a <hi>ſpecial Foe:</hi>
+               </l>
+               <l>For when I had recounted all my <hi>Woe;</hi>
+               </l>
+               <l>When I had told him all my <hi>Care</hi> and <hi>Grief,</hi>
+               </l>
+               <l>He ſeem'd to give me <hi>Scorn,</hi> and not <hi>Relief;</hi>
+               </l>
+               <l>When I had open'd and unlock'd my <hi>Heart,</hi>
+               </l>
+               <l>Show'd him how <hi>Fortune</hi> had diſcharg'd her <hi>Dart,</hi>
+               </l>
+               <l>And ſhot me thro' and thro', had pluck'd me bare,</l>
+               <l>And left me not a <hi>Feather</hi> for my ſhare;</l>
+               <l>And that I had no <hi>Penny</hi> to redeem</l>
+               <l>My <hi>Body</hi> from the <hi>Rancor</hi> of her <hi>Spleen;</hi>
+               </l>
+               <l>He (like a <hi>River,</hi> whoſe fair <hi>Stream</hi> grows dry</l>
+               <l>In heat of <hi>Summer,</hi> when neceſſity</l>
+               <l>Requireth <hi>Water</hi> moſt) anſwer'd again,</l>
+               <l>His <hi>Purſe</hi> was weak to bear up his own Train,</l>
+               <l>Much leſs could prop up the declining ſtate</l>
+               <l>Of other Men. Then did I ſee my Fate</l>
+               <l>By my <hi>Acquaintance;</hi> others then I try'd,</l>
+               <l>But all I found <hi>Infected</hi> with like <hi>Pride,</hi>
+               </l>
+               <l>With like <hi>Ingratitude;</hi> there was not one</l>
+               <l>Whoſe Heart was not <hi>Transform'd</hi> into a <hi>Stone.</hi>
+               </l>
+               <l>Then was I driven, by the hand of <hi>Fate</hi>
+               </l>
+               <l>And hard <hi>Neceſſity,</hi> an <hi>Alms</hi> to take</l>
+               <l>Of thoſe, whoſe <hi>Fortunes</hi> I had known but <hi>Poor,</hi>
+               </l>
+               <l>And <hi>Beg'd</hi> my <hi>Bread</hi> ev'n at a <hi>Beggar</hi>'s <hi>Door;</hi>
+               </l>
+               <l>
+                  <pb n="21" facs="tcp:101382:15"/>And in the <hi>Fields</hi> I was compell'd to ſtand,</l>
+               <l>And ask a <hi>Penny</hi> at a <hi>Stranger</hi>'s hand.</l>
+               <l>Where I had many a <hi>Hungry Belly</hi> fed,</l>
+               <l>Had many <hi>Cloath'd,</hi> had many <hi>Viſited,</hi>
+               </l>
+               <l>And with my <hi>Bounty</hi> rais'd their <hi>Spirits up,</hi>
+               </l>
+               <l>Whom <hi>Fortune</hi> forc'd to drink her <hi>Bitter Cup;</hi>
+               </l>
+               <l>Where I had <hi>Money</hi> in abundance <hi>Spent,</hi>
+               </l>
+               <l>Where I had <hi>Moneys given,</hi> had <hi>Moneys lent,</hi>
+               </l>
+               <l>I hardly got ſo much as would ſuffice</l>
+               <l>One <hi>Hungry Meal.</hi> Then did my <hi>Stomach</hi> riſe,</l>
+               <l>And from the deep <hi>Abyſs,</hi> my inrag'd heart</l>
+               <l>Call'd up <hi>Revenge</hi> to Act her <hi>Tragick</hi> part:</l>
+               <l>I did implore the Pow'rs of <hi>Heav'n</hi> to Crown</l>
+               <l>Their <hi>heads</hi> with <hi>Shame,</hi> and <hi>Rain</hi> ſuch <hi>Veng'ance</hi> down,</l>
+               <l>That ev'ry <hi>Minute</hi> might as tedious be</l>
+               <l>To them, as they ſeem'd tedious to me:</l>
+               <l>I did invoke the' <hi>Infernal Hags</hi> of <hi>Hell,</hi>
+               </l>
+               <l>To ſad <hi>Deſpair</hi> their <hi>Wretched Lives</hi> to ſell:</l>
+               <l>I courted <hi>Atropos,</hi> at my requeſt,</l>
+               <l>To draw her <hi>Fatal Siſters</hi> to deteſt</l>
+               <l>Their <hi>hateful Lives,</hi> and to combine in one</l>
+               <l>To cut their <hi>Threed of Life</hi> which they had <hi>Spun:</hi>
+               </l>
+               <l>I charg'd each <hi>Planet,</hi> I adjur'd each <hi>Star</hi>
+               </l>
+               <l>To threaten and denounce <hi>Inteſtine War:</hi>
+               </l>
+               <l>I Pray'd and Su'd to ev'ry <hi>Element,</hi>
+               </l>
+               <l>To be <hi>Prodig'ious</hi> and <hi>Malevolent:</hi>
+               </l>
+               <l>
+                  <pb n="22" facs="tcp:101382:16"/>I Woo'd the <hi>Earth</hi> to ſwallow them <hi>Alive,</hi>
+               </l>
+               <l>I Woo'd the <hi>Air</hi> their <hi>Miſchiefs</hi> to contrive;</l>
+               <l>I Woo'd the <hi>Waters,</hi> with a <hi>Raging Flood</hi>
+               </l>
+               <l>To <hi>overwhelm</hi> and <hi>Bury</hi> them in <hi>Mud:</hi>
+               </l>
+               <l>I Woo'd the <hi>Fire</hi> to deſcend in <hi>Flames,</hi>
+               </l>
+               <l>And utterly <hi>Conſume</hi> their <hi>Rotting Names:</hi>
+               </l>
+               <l>I Woo'd the <hi>Thunder-Bolts</hi> to ſtrike them <hi>Dead,</hi>
+               </l>
+               <l>And throw the <hi>Sulph'rous Lightning</hi> on their <hi>Head:</hi>
+               </l>
+               <l>I Woo'd the <hi>Moon,</hi> her <hi>Silver Lamp</hi> to ſhrow'd</l>
+               <l>Within the <hi>Boſom</hi> of a <hi>gloomy Cloud:</hi>
+               </l>
+               <l>I Woo'd the <hi>Sun</hi> to hide his <hi>glori'ous Rayes,</hi>
+               </l>
+               <l>I Woo'd the <hi>ſilent Night,</hi> I woo'd the <hi>Days,</hi>
+               </l>
+               <l>To yield them no <hi>Relief,</hi> but let them run</l>
+               <l>From place to place, like Men with <hi>Furies</hi> ſtung:</l>
+               <l>Thus in a <hi>Frantick, Mad,</hi> and <hi>Bedlam</hi> rage,</l>
+               <l>The Pow'rs of <hi>Heav'n</hi> and <hi>Earth</hi> I did ingage</l>
+               <l>My <hi>Quarrel</hi> to <hi>Revenge,</hi> to ſhoot their <hi>Darts</hi>
+               </l>
+               <l>In my <hi>Defence,</hi> and <hi>Wound</hi> their <hi>Treach'rous Hearts:</hi>
+               </l>
+               <l>I kick't the <hi>Earth,</hi> I tore my <hi>careleſs Hair,</hi>
+               </l>
+               <l>And in a <hi>Melancholy ſad Deſpair</hi>
+               </l>
+               <l>I drew my <hi>Sword,</hi> his wretched <hi>Life</hi> to end,</l>
+               <l>That had nor <hi>Penny</hi> left, nor yet a <hi>Friend.</hi>
+               </l>
+               <l>But by the <hi>Mercy</hi> of the <hi>Pow'r Divine</hi>
+               </l>
+               <l>My <hi>furious Hand</hi> was ſtaid, and I reſign'd</l>
+               <l>My <hi>Heart</hi> to <hi>Patience,</hi> and began to call</l>
+               <l>To ſtrict Account my <hi>Life</hi> and <hi>Actions</hi> all;</l>
+               <l>
+                  <pb n="23" facs="tcp:101382:16"/>I did conſider my <hi>Offence</hi> was great,</l>
+               <l>And oftentimes I did the ſame repeat:</l>
+               <l>I did conſider that I had done <hi>ill,</hi>
+               </l>
+               <l>And oftentimes that <hi>Thought</hi> my hopes did <hi>kill:</hi>
+               </l>
+               <l>And yet I thought there could be no <hi>Offence</hi>
+               </l>
+               <l>So great, but that a <hi>Father</hi> might diſpence:</l>
+               <l>I thought what <hi>ill</hi> ſoever could be done,</l>
+               <l>A <hi>Father</hi> might forgive a <hi>Pen'itent Son:</hi>
+               </l>
+               <l>I will Reſolve, I will, quoth I, go home,</l>
+               <l>Pour out my <hi>Plaints</hi> to him, to him make <hi>Moan;</hi>
+               </l>
+               <l>I'll <hi>Beg, Intreat,</hi> and <hi>Supplication</hi> make,</l>
+               <l>And ask <hi>forgiveneſs</hi> for my <hi>Sav'iour</hi>'s ſake.</l>
+               <l>So homeward to my <hi>Fathers Houſe</hi> I went,</l>
+               <l>And e're I came a <hi>Meſſenger</hi> I ſent;</l>
+               <l>I ſent him word a <hi>Prodigal</hi> was come,</l>
+               <l>A <hi>Prodigal</hi> that once was call'd his <hi>Son;</hi>
+               </l>
+               <l>But now that <hi>Intereſt</hi> I did forgo,</l>
+               <l>For why? my <hi>Sins</hi> deſerv'd it ſhould be ſo;</l>
+               <l>I ſhould be happy if I might retain</l>
+               <l>A <hi>Hireling</hi>'s <hi>Room,</hi> and in his Houſe remain;</l>
+               <l>To be admitted to a <hi>Servants</hi> place,</l>
+               <l>I hold exceeding <hi>Love,</hi> exceeding <hi>Grace.</hi>
+               </l>
+               <l>When of my <hi>Coming</hi> he did underſtand,</l>
+               <l>My <hi>Father</hi> ran to me, and ſhook my <hi>Hand,</hi>
+               </l>
+               <l>Fell on my <hi>Neck,</hi> and <hi>kiſs'd me,</hi> brought me home,</l>
+               <l>Strip'd off thoſe <hi>Rags</hi> which were ſo <hi>loathſome</hi> grown,</l>
+               <l>
+                  <pb n="24" facs="tcp:101382:17"/>And <hi>Cloath'd</hi> me well, my <hi>hungry Belly</hi> fill'd,</l>
+               <l>Ev'n with the <hi>Fatling</hi> that for me was <hi>kill'd:</hi>
+               </l>
+               <l>Upon my <hi>Finger</hi> put a Ring of <hi>Gold,</hi>
+               </l>
+               <l>And gave me <hi>Bleſſings</hi> great and manifold,</l>
+               <l>And told me he would all forget, forgive,</l>
+               <l>And that I ſhould with him for ever live.</l>
+               <l>Then fell I <hi>proſtrate</hi> on my <hi>bended Knee</hi>
+               </l>
+               <l>Before the high <hi>Eternal Deity,</hi>
+               </l>
+               <l>Preſenting at his <hi>Altar,</hi> as a true</l>
+               <l>
+                  <hi>Idea</hi> of a Soul refined <hi>New,</hi>
+               </l>
+               <l>My <hi>Penitent Tears,</hi> which in abundance I</l>
+               <l>Shed for my <hi>Time</hi> conſum'd in <hi>Vanity;</hi>
+               </l>
+               <l>I did <hi>Abjure, Renounce,</hi> and caſt off clear</l>
+               <l>Thoſe <hi>Vanities</hi> which I had held ſo <hi>Dear;</hi>
+               </l>
+               <l>In <hi>Contemplation</hi> I reſolv'd to ſpend</l>
+               <l>The <hi>Remnant</hi> of my <hi>Days,</hi> until my <hi>End;</hi>
+               </l>
+               <l>So in a private, ſolitary <hi>Cell,</hi>
+               </l>
+               <l>I, with Old <hi>Timon,</hi> bad the <hi>World</hi> farewell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101382:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
